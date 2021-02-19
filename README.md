@@ -14,8 +14,9 @@ Convert LinkedIn export data csv files
 - [Generete new credential key](https://console.firebase.google.com/project/_/settings/serviceaccounts/adminsdk)
 - [Upload your credentail to codelab storage](https://colab.research.google.com/github/raphaelcarlosr/linkedin2firebase/blob/main/Parse_LinkedIn_Data.ipynb)
 - [Upload your linkedin zip file](https://colab.research.google.com/github/raphaelcarlosr/linkedin2firebase/blob/main/Parse_LinkedIn_Data.ipynb)
-- Update variables in "# Set your values"
+- Update variables in "# Set your values", in [Parse LinkedIn Data.ipynb](Parse_LinkedIn_Data.ipynb)
 - Run, and voilà
+- 
 
 
 ![image](https://user-images.githubusercontent.com/483708/108541916-d142c280-72c1-11eb-953e-256695b053d9.png)
